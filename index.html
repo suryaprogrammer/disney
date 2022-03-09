@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no>
+    <title>Disney+ Hotstar - Surya</title>
+    <link rel="shortcut icon" href="https://secure-media.hotstar.com/web-assets/prod/D+H_favicon.ico"
+        type="image/x-icon">
+    <!-- 
+        Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football
+     -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+    <nav id="navbar">
+        <div id="nav0">
+            <div onmouseover="leftslide()" onmouseover="hovermovie()" onmouseout="hoverendmovie()" id="linediv">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+            <div id="divlogo">
+                <a href="https://suryaprogrammer.github.io/disney/"><img src="disney-hotstar-logo-dark.svg" alt=""></a>
+            </div>
+        </div>
+        <div id="nav1">
+            <ul id="ul1">
+                <li> <a href="#"> TV </a></li>
+                <li onmouseover="moviemenustart()" onmouseout="moviemenuend()"id="limovie"> <a href="#"> Movies </a></li>
+                <li> <a href="#"> Sports </a></li>
+                <li> <a href="#"> disney+</a></li>
+                <li><a href="https://www.hotstar.com/in/tv/gaju-bhai/1260016956"><img src="kids.svg" alt="kids"></a></li>
+
+            </ul>
+        </div>
+        <div id="nav2">
+
+            <div id="divsearch">
+                <input id="search" type="text" placeholder="Search">
+
+            </div>
+            <div id="divsub">
+                <a href="https://www.hotstar.com/in/subscribe/get-started"> <button
+                        id="subscribe">Subscribe</button></a>
+            </div>
+                <p id="mobilemovie">Movies</p>
+            </div>
+            <div id="divlog">
+                
+                <button id="login"><a href="#">Login</a></button>
+            </div>
+
+
+        </div>
+    </nav>
+    <div id="care" onmouseout="moviemenuend()" >
+
+    </div>
+
+    <div id="all">
+        <div id="latest">
+            <div id="latesthead">
+                <h2 id="heading">Latest & Trending</h2>
+            </div>
+            <div id="listdivlatest" class="listdivv"> </div>
+        </div>
+
+        <div id="popularhead">
+            <div id="latesthead">
+                <h2 id="heading">Popular</h2>
+            </div>
+            <div id="listdivpopular" class="listdivv"> </div>
+        </div>
+
+        <div id="recommandedhead">
+            <div id="latesthead">
+                <h2 id="heading">Recommanded</h2>
+            </div>
+            <div id="listdivrecommanded" class="listdivv"> </div>
+        </div>
+
+    </div>
+
+
+    <!-- /sdsfsddddddddddddddd -->
+    <!-- element -->
+    <div onmouseover="moviemenustart()" onmouseout="moviemenuend()" class="moviemenu" id="moviemenu" >
+        <ul id="barul">
+            <li><a href="allmovie.html">All Movies</a></li>
+            <li><a href="#">Tamil</a></li>
+            <li><a href="#">Malayalam</a></li>
+            <li><a href="#">Telugu</a></li>
+            <li><a href="#">Kannada</a></li>
+            <li><a href="#">Marathi</a></li> 
+            <li><a href="#">Bengali</a></li>
+            <li><a href="#">Hindi</a></li>
+            <li><a href="#">English</a></li>
+            <li><a href="#">Others</a></li>
+        </ul>
+    </div>
+    <div onmouseover="leftslide()" onmouseout="hoverendmovie()" class="linemenu" id="linemenu" >
+        <u id="barul">
+            <li><a href="#">Channels</a></li>
+            <li><a href="#">Language</a></li>
+            <li><a href="#">Genere </a></li>
+        </ul>
+    </div>
+    <div onmousemove="leftslide()" onmouseout="hoverendmovie()" id="leftslideline">
+        <ul>
+            <li><a href="#">Channels</a></li>
+            <li><a href="#">Language</a></li>
+            <li><a href="#">Genere </a></li>
+        </ul>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>

@@ -1,0 +1,131 @@
+{
+    "author":"S.Surya",
+    "date":"07/03/2022",
+    "banner":{
+        "b1":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8075/1118075-h-4b8588e5c542",
+        "b2":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/8602/1118602-h-6d82ddd928aa",
+        "b3":"polic.webp",
+        "b4":"https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6650/516650-h",
+        "b5":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/old_images/SHOW/132/132/132-h"
+    },
+    "latest":[
+        {
+            "movie":"Manadhu",
+            "img":"https://www.filmibeat.com/img/popcorn/movie_posters/maanaadu-20201123114538-17309.jp",
+            "link":"https://terabox.com/s/1TNQ1wIgSfrna7Prr4_vObA"
+        },{
+            "movie":"Kodiyil oruvan",
+            "img":"https://lh3.google.com/u/0/d/1c956jh-ZxYxTFSGIIpD5IepeiHEizahA=w200-h190-p-k-nu-iv1",
+            "link":"https://terabox.com/s/1NV6Re8DySQQ9Gkr7ehZ3wA"
+        },{
+            "movie":"Anatha",
+            "img":"https://lh3.google.com/u/0/d/1D3noftc77U-KoAvvZXkMIwTL2t7aENPj=w200-h190-p-k-nu-iv1",
+            "link":"https://terabox.com/s/18-ESUXerPa5SrIXPJHbcug"
+        },{
+            "movie":"Enemy",
+            "img":"https://lh3.google.com/u/0/d/1323jC5ZFHZuGheyaV94MaULu0pnk-Mjk=w200-h190-p-k-nu-iv1",
+            "link":"https://terabox.com/s/1c5RI0e_mRXyCgzRbtUr3HA"
+        },{
+            "movie":"Docter",
+            "img":"https://lh3.google.com/u/0/d/19n0CFS7DgEd29jmeVIJPQF5rpQbGoR5a=w200-h190-p-k-nu-iv1",
+            "link":"https://terabox.com/s/1SUjEmd0CmI3BBQL0icXzHg"
+        },{
+            "movie":"Galatha Kalyanam",
+            "img":"https://lh3.google.com/u/0/d/1AVrovo2LncjcIf8mSOpPC4Yb7copFEbu=w200-h190-p-k-nu-iv1",
+            "link":"https://terabox.com/s/1xO8RY8iK-mfaCwMC_4UaXQ"
+        },{
+            "movie":"Thalaivi",
+            "img":"https://lh3.google.com/u/0/d/1bToRB-_VRyoQJ8zsGImtEA71yvuZlX1Y=w200-h190-p-k-nu-iv1",
+            "link":"https://terabox.com/s/1faU5kOEbQ_B_mjU0DitgGA"
+        },{
+            "movie":"Sivakumarin Sabadam",
+            "img":"https://lh3.google.com/u/0/d/1UN7rrevTJhZBUpnWNF-Fwk_bkYSdAxmH=w200-h190-p-k-nu-iv1",
+            "link":"https://lh3.google.com/u/0/d/1UN7rrevTJhZBUpnWNF-Fwk_bkYSdAxmH=w200-h190-p-k-nu-iv1"
+        },{
+            "movie":"Thalaivi",
+            "img":"https://lh3.google.com/u/0/d/1bDLbsPCFwlPbeT73FW0Err2elEtsO2gu=w300-k-nu-iv1",
+            "link":"https://terabox.com/s/1c5RI0e_mRXyCgzRbtUr3HA"
+        }
+        ],
+        "popu":[
+            {
+                "movie":"Manadhu",
+                "img":"https://lh3.google.com/u/0/d/1bDLbsPCFwlPbeT73FW0Err2elEtsO2gu=w300-k-nu-iv1",
+                "link":"https://terabox.com/s/1TNQ1wIgSfrna7Prr4_vObA"
+            },{
+                "movie":"Kodiyil oruvan",
+                "img":"https://lh3.google.com/u/0/d/1c956jh-ZxYxTFSGIIpD5IepeiHEizahA=w200-h190-p-k-nu-iv1",
+                "link":"https://terabox.com/s/1NV6Re8DySQQ9Gkr7ehZ3wA"
+            },{
+                "movie":"Anatha",
+                "img":"https://lh3.google.com/u/0/d/1D3noftc77U-KoAvvZXkMIwTL2t7aENPj=w200-h190-p-k-nu-iv1",
+                "link":"https://terabox.com/s/18-ESUXerPa5SrIXPJHbcug"
+            },{
+                "movie":"Enemy",
+                "img":"https://lh3.google.com/u/0/d/1323jC5ZFHZuGheyaV94MaULu0pnk-Mjk=w200-h190-p-k-nu-iv1",
+                "link":"https://terabox.com/s/1c5RI0e_mRXyCgzRbtUr3HA"
+            },{
+                "movie":"Docter",
+                "img":"https://lh3.google.com/u/0/d/19n0CFS7DgEd29jmeVIJPQF5rpQbGoR5a=w200-h190-p-k-nu-iv1",
+                "link":"https://terabox.com/s/1SUjEmd0CmI3BBQL0icXzHg"
+            },{
+                "movie":"Galatha Kalyanam",
+                "img":"https://lh3.google.com/u/0/d/1AVrovo2LncjcIf8mSOpPC4Yb7copFEbu=w200-h190-p-k-nu-iv1",
+                "link":"https://terabox.com/s/1xO8RY8iK-mfaCwMC_4UaXQ"
+            },{
+                "movie":"Thalaivi",
+                "img":"https://lh3.google.com/u/0/d/1bToRB-_VRyoQJ8zsGImtEA71yvuZlX1Y=w200-h190-p-k-nu-iv1",
+                "link":"https://terabox.com/s/1faU5kOEbQ_B_mjU0DitgGA"
+            },{
+                "movie":"Sivakumarin Sabadam",
+                "img":"https://lh3.google.com/u/0/d/1UN7rrevTJhZBUpnWNF-Fwk_bkYSdAxmH=w200-h190-p-k-nu-iv1",
+                "link":"https://lh3.google.com/u/0/d/1UN7rrevTJhZBUpnWNF-Fwk_bkYSdAxmH=w200-h190-p-k-nu-iv1"
+            },{
+                "movie":"Thalaivi",
+                "img":"https://lh3.google.com/u/0/d/1bDLbsPCFwlPbeT73FW0Err2elEtsO2gu=w300-k-nu-iv1",
+                "link":"https://terabox.com/s/1c5RI0e_mRXyCgzRbtUr3HA"
+            }
+            ],
+            "recome":[
+                {
+                    "movie":"Manadhu",
+                    "img":"https://lh3.google.com/u/0/d/1bDLbsPCFwlPbeT73FW0Err2elEtsO2gu=w300-k-nu-iv1",
+                    "link":"https://terabox.com/s/1TNQ1wIgSfrna7Prr4_vObA"
+                },{
+                    "movie":"Kodiyil oruvan",
+                    "img":"https://lh3.google.com/u/0/d/1c956jh-ZxYxTFSGIIpD5IepeiHEizahA=w200-h190-p-k-nu-iv1",
+                    "link":"https://terabox.com/s/1NV6Re8DySQQ9Gkr7ehZ3wA"
+                },{
+                    "movie":"Anatha",
+                    "img":"https://lh3.google.com/u/0/d/1D3noftc77U-KoAvvZXkMIwTL2t7aENPj=w200-h190-p-k-nu-iv1",
+                    "link":"https://terabox.com/s/18-ESUXerPa5SrIXPJHbcug"
+                },{
+                    "movie":"Enemy",
+                    "img":"https://lh3.google.com/u/0/d/1323jC5ZFHZuGheyaV94MaULu0pnk-Mjk=w200-h190-p-k-nu-iv1",
+                    "link":"https://terabox.com/s/1c5RI0e_mRXyCgzRbtUr3HA"
+                },{
+                    "movie":"Docter",
+                    "img":"https://lh3.google.com/u/0/d/19n0CFS7DgEd29jmeVIJPQF5rpQbGoR5a=w200-h190-p-k-nu-iv1",
+                    "link":"https://terabox.com/s/1SUjEmd0CmI3BBQL0icXzHg"
+                },{
+                    "movie":"Galatha Kalyanam",
+                    "img":"https://lh3.google.com/u/0/d/1AVrovo2LncjcIf8mSOpPC4Yb7copFEbu=w200-h190-p-k-nu-iv1",
+                    "link":"https://terabox.com/s/1xO8RY8iK-mfaCwMC_4UaXQ"
+                },{
+                    "movie":"Thalaivi",
+                    "img":"https://lh3.google.com/u/0/d/1bToRB-_VRyoQJ8zsGImtEA71yvuZlX1Y=w200-h190-p-k-nu-iv1",
+                    "link":"https://terabox.com/s/1faU5kOEbQ_B_mjU0DitgGA"
+                },{
+                    "movie":"Sivakumarin Sabadam",
+                    "img":"https://lh3.google.com/u/0/d/1UN7rrevTJhZBUpnWNF-Fwk_bkYSdAxmH=w200-h190-p-k-nu-iv1",
+                    "link":"https://lh3.google.com/u/0/d/1UN7rrevTJhZBUpnWNF-Fwk_bkYSdAxmH=w200-h190-p-k-nu-iv1"
+                },{
+                    "movie":"Thalaivi",
+                    "img":"https://lh3.google.com/u/0/d/1bDLbsPCFwlPbeT73FW0Err2elEtsO2gu=w300-k-nu-iv1",
+                    "link":"https://terabox.com/s/1c5RI0e_mRXyCgzRbtUr3HA"
+                }
+                ],
+        "name":"surya"
+
+
+}
